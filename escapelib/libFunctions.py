@@ -1,6 +1,3 @@
-def addOne(userInput: int):
-    return userInput+1
-
 class TheLibrary:
     def __init__(self):
         

@@ -1,7 +1,5 @@
 import escapelib
 
-print(escapelib.addOne(5))
-
 testLib = escapelib.TheLibrary()
 
 testLib.TalkToAnEmployeeAgain()
