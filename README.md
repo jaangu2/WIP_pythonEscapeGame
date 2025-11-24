@@ -1,4 +1,6 @@
-This project was originally made for an arduino, and I am migrating it to Python. Therefore some things are set up in ways that don't really make sense for Python, like a function that just prints out information to the terminal. But I plan to slowly evolve this project into a python-centric project that utilizes the core structure and functionalities of python.
+This is a work in progress.
+
+This project was originally made for an arduino to give to my friend as a gift, but now I am migrating it to Python. Therefore, some things are set up in ways that don't really make sense for Python, like a function that just prints out information to the terminal. But I plan to slowly evolve this project into a python-centric project that utilizes the core structure and functionalities of python. Below is the message given to my friend along with this game:
 
 Welcome to The Library! This is an Arduino-based escape room built by me, Jason, specifically for you, Brad! You'll need to use your programming skills to program the included arduino, and use the included library .cpp and .h files to solve all the challenges and "escape"! I have no idea how easy or hard it will be, nor how long it will take in total. But I hope it's fun!
 
